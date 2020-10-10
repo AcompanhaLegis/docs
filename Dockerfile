@@ -1,7 +1,7 @@
 FROM python:3.7-buster
 
 # Make a directory for our application
-WORKDIR /
+WORKDIR /opt/acompanha_legis_docs
 
 # Install dependencies
 COPY requirements.txt .

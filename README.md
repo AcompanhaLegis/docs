@@ -25,7 +25,7 @@ $ git clone https://github.com/AcompanhaLegis/Docs.git
 #### 2. Access the repository directory
 
 <code>
-$ cd Docs
+$ cd docs
 </code>
 
 #### 3. Build the docker image from Dockerfile

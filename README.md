@@ -44,6 +44,15 @@ Done! Now, you can check out the generated documentation live on.
 
 It should be running on: http://127.0.0.1:8080/
 
+#### 4. Stopping and removing the running container
+<code>
+$ sudo docker stop $(docker ps -a | grep dockerpython | awk -F " " '{print $1}')
+</code>
+<code>
+$ sudo docker rm $(docker ps -a | grep dockerpython | awk -F " " '{print $1}')
+</code>
+
+
 <hr>
 
 #### License

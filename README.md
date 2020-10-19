@@ -19,7 +19,7 @@ You can find out how to install Docker on it's <a href="https://docs.docker.com/
 #### 1. Clone the repository
 
 <code>
-$ git clone https://github.com/AcompanhaLegis/Docs.git
+$ git clone https://github.com/AcompanhaLegis/docs.git
 </code>
 
 #### 2. Access the repository directory

@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# AcompanhaLegis - Documentação Oficial
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bem-vindo! Aqui você encontrará todas as informações técnicas necessárias para trabalhar no projeto AcompanhaLegis.
 
-## Commands
+Para ver os tópicos disponíveis nesta documentação, basta consultar o menu à esquerda (catálogo). Você também pode pesquisar uma palavra-chave utilizando o mecanismo de busca, explícito na barra de navegação (ao topo deste site).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Somos um projeto <em><a href="https://github.com/AcompanhaLegis" target="_blank">open-source</a></em>, portanto não hesite em <a href="about/contributing/">contribuir</a> caso tenha interesse! 😀

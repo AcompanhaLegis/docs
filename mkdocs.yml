@@ -1,6 +1,18 @@
 site_name: AcompanhaLegis Docs
 dev_addr: '0.0.0.0:8080'
 
+nav:
+  - Home: index.md
+  - Sobre:
+    - Informações Globais: about/about.md
+    - Contribuir: about/contributing.md
+  - Banco de dados:
+    - PostgreSQL: database/postgres.md
+  - Django:
+    - O Framework: django/django.md
+    - Python: django/python.md
+  - MKDOCS: mkdocs.md
+
 theme:
   name: material
   language: pt
